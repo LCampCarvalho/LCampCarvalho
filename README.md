@@ -1,8 +1,12 @@
 ### Olá! Eu sou o Lucas Campos Carvalho 😃
 
-- 👨‍🎓 Hoje eu curso Sistemas de informação
-- 📖 Estudo Python e também linguagens de Front-end
-- 💻 Estou procurando oportunidades de estágio
+- 👨‍🎓 Estudante de Sistemas de informação
+- 💎 Sou criativo e adoro ajudar o próximo
+- 💪🏻 Adoro um bom desafio
+- 📖 Amo estudar desenvolvimento web, front-end e back-end
+- 💻 Estou procurando oportunidades desafiadoras
+- 🎓 Graduado em Administração
+- ⌚️ Gestão de demandas
 
 <div>
   <a href="https://github.com/LCampCarvalho/">
@@ -16,6 +20,8 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+  <img align="center" alt="Lucas-Canva" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Lucas-Canva" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">       
 </div>
   
   ##
