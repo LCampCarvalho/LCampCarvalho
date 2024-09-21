@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Campos Carvalho 😃
 
-- 👨‍🎓 Estudante de Sistemas de informação
+- 👨‍🎓 Estudante cursando graduação em Sistemas de informação
 - 💎 Sou criativo e adoro ajudar o próximo
 - 💪🏻 Adoro um bom desafio
 - 📖 Amo estudar desenvolvimento web, front-end e back-end
